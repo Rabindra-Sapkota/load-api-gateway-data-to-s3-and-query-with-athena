@@ -1,4 +1,4 @@
-# Store data sent to api into s3 and query with athena
+# Description
 When data is sent to api gateway via application or postman, it is stored in s3 bucket. Athena is then used to query
 files stored in s3
 
