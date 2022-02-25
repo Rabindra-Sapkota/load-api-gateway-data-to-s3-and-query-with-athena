@@ -5,3 +5,6 @@ files stored in s3
 ## Note
 * Change value of **destination_bucket** in **lambda_function** with your s3 bucket name
 * **SSN** should be present in every record else it throws error.
+
+## Demo Video
+* https://youtu.be/l4A5FxTuFcE
